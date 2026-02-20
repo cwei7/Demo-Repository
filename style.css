@@ -1,8 +1,8 @@
-.landing-page,
-.landing-page * {
+.about-page,
+.about-page * {
   box-sizing: border-box;
 }
-.landing-page {
+.about-page {
   background: #ffb9e9;
   height: 1024px;
   position: relative;
@@ -83,58 +83,62 @@
   font-weight: 400;
   position: relative;
 }
+.frame-7 {
+  width: 1122px;
+  height: 430px;
+  position: absolute;
+  left: 58px;
+  top: 293px;
+}
 .frame-4 {
   display: flex;
   flex-direction: column;
   gap: 30px;
-  align-items: center;
+  align-items: flex-start;
   justify-content: flex-start;
-  width: 1066px;
+  width: 1348px;
+  height: 119px;
   position: absolute;
-  left: 187px;
-  top: 308px;
+  left: 27px;
+  top: 0px;
 }
-.let-s-create-a-website-design {
+.bmgt-407-information-systems-projects {
   color: #ffffff;
-  text-align: center;
+  text-align: left;
   font-family: "Montserrat-Bold", sans-serif;
   font-size: 60px;
   font-weight: 700;
   position: relative;
   align-self: stretch;
 }
-.today-let-s-create-a-sample-website-design-in-figma-and-export-its-corresponding-html-and-css-code {
+.frame-6 {
+  width: 1122px;
+  height: 254px;
+  position: absolute;
+  left: 0px;
+  top: 176px;
+}
+.bmgt-407-is-the-capstone-course-for-information-systems-is-majors-many-student-take-bmgt-407-directly-after-bmgt-403-and-continue-to-build-onto-their-existing-projects-to-implement-them-in-the-real-world {
   color: #ffffff;
-  text-align: center;
+  text-align: left;
   font-family: "Montserrat-Regular", sans-serif;
   font-size: 32px;
   font-weight: 400;
-  position: relative;
-  align-self: stretch;
-  height: 116px;
-}
-.frame-5 {
-  background: #a8ff35;
-  border-radius: 10px;
-  padding: 14px 19px 14px 19px;
-  display: flex;
-  flex-direction: row;
-  gap: 10px;
-  align-items: center;
-  justify-content: center;
-  width: 180px;
-  height: 57px;
   position: absolute;
-  left: 50%;
-  translate: -50%;
-  top: 527px;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  left: 27px;
+  top: 0px;
+  width: 1068px;
+  height: 108px;
 }
-.get-started {
+.professor-paul-t-shapiro-teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara-semester-details-spring-2026 {
   color: #ffffff;
-  text-align: center;
+  text-align: left;
   font-family: "Montserrat-Regular", sans-serif;
-  font-size: 24px;
+  font-size: 32px;
   font-weight: 400;
-  position: relative;
+  position: absolute;
+  left: 27px;
+  top: 184px;
+  width: 1068px;
+  height: 116px;
 }
